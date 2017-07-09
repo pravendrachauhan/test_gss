@@ -18,6 +18,7 @@ import org.testng.annotations.Test;
 
 public class wiki_test {
 	WebDriver driver;
+	//trying to test git hub url
 	@BeforeTest
 	public void setUp(){
 		//Open FF browser
